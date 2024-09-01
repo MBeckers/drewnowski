@@ -1,8 +1,8 @@
 title: Theme
 data:
-  logo_normal: images/Dark.svg
-  logo_dark: images/Light.svg
-  logo_mark: images/White.svg
+  logo_normal: logo-drewnowski.svg
+  logo_dark: logo-drewnowski_inverted.svg
+  logo_mark: logo.svg
   logo_position: left
   menu_position: left
   show_links: true

@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725192975
+updated_at: 1725194969
 blocks:
   -
     id: XAoM0FUc
@@ -194,6 +194,44 @@ blocks:
         type: new_set
         enabled: true
     type: project_multiple
+    enabled: true
+  -
+    id: m0jjl5qf
+    version: feature_single_2
+    title: 'Lassen sie uns Ihr Projekt angehen'
+    description: 'Lassen sie uns Ihr Projekt angehen'
+    toggle: true
+    label: 'Jetzt Kontaktieren'
+    button_variant: brand
+    button_size: md
+    target_blank: false
+    type: feature_single
+    enabled: true
+    image: stock/before-after_contact.webp
+  -
+    id: m0jjy3vk
+    version: contact_1
+    enable_location: true
+    location_title: 'Bereit wenn Sie es sind!'
+    location_subtitle: 'Gerne unterstützen wir sie bei ihrem Projekt.'
+    locations:
+      -
+        id: m0jjzimi
+        title: 'Köln & Umgebung'
+        rich_text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Wir sind für sie verfügbar in Köln und Umgebung.'
+        type: new_location
+        enabled: true
+    enable_form: true
+    form_title: 'Unverbindlich Anfragen'
+    form_subtitle: 'Wie können wir sie unterstützen?'
+    contact_form: contact_form
+    type: contact_section
     enabled: true
 custom_page_header: false
 seo_title: title
