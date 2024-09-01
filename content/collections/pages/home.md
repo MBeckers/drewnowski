@@ -11,14 +11,14 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725190448
+updated_at: 1725191711
 blocks:
   -
     id: XAoM0FUc
     version: hero_section_5
     title: 'Wir bauen Ihre Vision mit Präzision und Sorgfalt'
     has_description: true
-    hero_image: images/Phone-Mockup.png
+    hero_image: stock/construction-hero-1-1.webp
     label: 'Jetzt kontaktieren'
     link: 'https://www.luckymedia.dev'
     target_blank: true
@@ -121,177 +121,27 @@ blocks:
     type: project_single
     enabled: true
   -
-    id: LpOWqgQF
-    version: logo_cloud_1
-    images:
-      - images/Booking-Frame.png
-      - images/Product-Hunt-Frame.png
-      - images/Amazon-Frame.png
-      - images/Ups-Frame.png
-    type: logo_cloud
-    enabled: true
-  -
-    id: fskOCgiX
-    version: testimonial_section_7
-    title: 'Our clients now best'
-    description: 'Read about the stories of our clients'
-    testimonials:
+    id: m0jhw9ap
+    version: project_multiple_1
+    title: 'Unsere Arbeit spricht für sich'
+    projects:
       -
-        id: Scm7gbAK
-        description: "To quickly start my startup landing page design, I was looking for a landing page UI Kit. Landtamic is one of the best landing page UI kit I have come across. It's so flexible, well organised and easily editable."
-        has_author: true
-        full_name: 'John Doe'
-        position: 'President of Product Hunt'
-        type: new_set
-        enabled: true
-        image: images/Product-Hunt-Frame.png
-      -
-        id: vjT1dhwt
-        description: 'I used landtamic and created a landing page for my startup within a week. The Landtamic UI Kit is simple and highly intuitive, so anyone can use it.'
-        has_author: true
-        full_name: 'Jane Doe'
-        position: 'COO at Booking'
-        type: new_set
-        enabled: true
-        image: images/Booking-Frame.png
-      -
-        id: o7OYpimr
-        description: 'Landtamic saved our time in designing my company page.'
-        has_author: true
-        full_name: 'Doe John'
-        position: 'Founder of Amazon'
-        image: images/Amazon-Frame.png
-        type: new_set
-        enabled: true
-    type: testimonial
-    enabled: true
-  -
-    id: GJ5MI50e
-    version: feature_multiple_5
-    title: 'Most Powerful Features'
-    features:
-      -
-        id: DwM9QLuQ
-        image: images/uil_tachometer-fast.png
-        title: 'High Performance'
-        description: 'SEO friendly websites that match up with all the requirements of modern browsers.'
-        type: card
-        enabled: true
+        id: m0jhx3yr
+        title: Hausausbau
+        description: 'Ausbau eines 1 Familien zu einem zwei Familien Haus. Von der Dachaufstockung bis zum Innenausbau haben wir alles übernommen.'
+        image: stock/before-after.webp
         has_link: false
-      -
-        id: ZpBk6OY6
-        image: images/uil_channel.png
-        title: 'Easy and Accessible'
-        description: 'SEO friendly websites that match up with all the requirements of modern browsers.'
-        type: card
-        enabled: true
-        has_link: false
-      -
-        id: mRYUEA8h
-        image: images/uil_cloud-lock.png
-        title: 'High Security'
-        description: 'SEO friendly websites that match up with all the requirements of modern browsers.'
-        type: card
-        enabled: true
-        has_link: false
-      -
-        id: wUqKaWb4
-        image: images/uil_servers.png
-        title: 'Multiple Plugins'
-        description: 'SEO friendly websites that match up with all the requirements of modern browsers.'
-        type: card
-        enabled: true
-        has_link: false
-      -
-        id: LE6vc2It
-        image: images/uil_data-sharing.png
-        title: 'Content Management'
-        description: 'SEO friendly websites that match up with all the requirements of modern browsers.'
-        type: card
-        enabled: true
-        has_link: false
-      -
-        id: KnPHN40u
-        image: images/uil_cloud-heart.png
-        title: 'Professional Design'
-        description: 'SEO friendly websites that match up with all the requirements of modern browsers.'
-        type: card
-        enabled: true
-        has_link: false
-    type: feature_multiple
-    enabled: true
-    description: 'Beautiful designs, powerful features is all you need. SEO friendly websites that match up with all the requirements of browsers.'
-  -
-    id: 5YIOnRhU
-    version: stats_section_6
-    title: 'Because stats do matter'
-    description: 'With our super powers we have reached this'
-    stats:
-      -
-        id: cPvFWVfJ
-        number: '10,000+'
-        description: 'Downloads per day'
-        icon: images/uil_download-alt.png
         type: new_set
         enabled: true
-        has_icon: true
       -
-        id: DD8ipNAv
-        number: '2 Million'
-        description: Users
-        icon: images/uil_users-alt.png
+        id: m0jiflgz
+        title: 'Bad Rennovierung'
+        description: 'Abriss und Neubau eines Badezimmers in einer Eigentumswohnung.'
+        image: stock/bad-rennovierung.webp
+        has_link: false
         type: new_set
         enabled: true
-        has_icon: true
-      -
-        id: IcsdgSAS
-        number: 500+
-        description: Clients
-        icon: images/uil_user-plus.png
-        type: new_set
-        enabled: true
-        has_icon: true
-      -
-        id: 86q7e6gn
-        number: '140'
-        description: Countries
-        type: new_set
-        enabled: true
-        has_icon: true
-        icon: images/uil_globe.png
-    type: stats
-    enabled: true
-  -
-    id: iomkToJo
-    version: feature_single_5
-    title: 'High Security'
-    description: 'Beautiful designs, powerful features is all you need. SEO friendly websites that match up with all the requirements of browsers.Beautiful designs, powerful features is all you need. SEO friendly websites that match up with all the requirements of browsers.'
-    image: images/Phone-Mockup-1640105713.png
-    toggle: true
-    label: 'Sign up'
-    link: 'https://www.luckymedia.dev/'
-    button_variant: brand
-    button_size: md
-    target_blank: true
-    type: feature_single
-    enabled: true
-  -
-    id: dblUqUku
-    version: feature_single_6
-    title: 'Accessible services for your company'
-    description: 'Beautiful designs, powerful features is all you need. SEO friendly websites that match up with all the requirements of browsers.Beautiful designs, powerful features is all you need.'
-    toggle: false
-    type: feature_single
-    enabled: true
-    image: images/Cover-Image-1641396328.png
-  -
-    id: 20TYSkdV
-    version: cta_section_6
-    title: 'Manage your business as easy as possible'
-    description: 'Having struggles to manage and organize your daily work and business needs? We have all the tools and services that you need for the best prices in the market.'
-    image: images/Macbook-Pro.png
-    toggle: false
-    type: cta_section
+    type: project_multiple
     enabled: true
 custom_page_header: false
 seo_title: title
