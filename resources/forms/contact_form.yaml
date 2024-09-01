@@ -4,4 +4,6 @@ email:
     id: m0jmlgac
     to: marius@beckers.de
     cc: adams@nanosch.de
+    from: contact@drewnowski.eu
+    subject: 'Neue Anfrage / nowe zapytanie'
     mailer: mailgun
