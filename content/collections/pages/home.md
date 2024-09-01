@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725199016
+updated_at: 1725200558
 blocks:
   -
     id: XAoM0FUc
@@ -161,6 +161,7 @@ blocks:
     target_blank: false
     type: cta_section
     enabled: true
+    link: 'entry::a3702dc4-85a0-45dd-b9e7-e6ffa4d45462'
   -
     id: m0jhrg6f
     version: project_single_1
@@ -172,6 +173,7 @@ blocks:
     target_blank: false
     type: project_single
     enabled: true
+    link: 'entry::a3702dc4-85a0-45dd-b9e7-e6ffa4d45462'
   -
     id: m0jhw9ap
     version: project_multiple_1
@@ -208,6 +210,7 @@ blocks:
     type: feature_single
     enabled: true
     image: stock/before-after_contact.webp
+    link: 'entry::a3702dc4-85a0-45dd-b9e7-e6ffa4d45462'
   -
     id: m0jjy3vk
     version: contact_1

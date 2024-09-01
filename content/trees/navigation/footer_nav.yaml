@@ -4,9 +4,9 @@ tree:
     title: Mehr
     children:
       -
-        id: 50e26b1a-3b85-4828-96d6-d336eb19df3a
-        title: 'Contact Us'
-        url: '#'
+        id: f1d1fb82-64d8-45fc-b227-a32d3125c5e2
+        entry: a3702dc4-85a0-45dd-b9e7-e6ffa4d45462
+        title: Kontakt
       -
         id: 296e8f64-44ad-4264-a4bd-69b1acd1254e
         title: 'About us'
