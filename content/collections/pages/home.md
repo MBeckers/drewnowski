@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725192103
+updated_at: 1725192975
 blocks:
   -
     id: XAoM0FUc
@@ -28,6 +28,46 @@ blocks:
     description: 'Team-Drewnowski: Experten für Bauleistungen von Rohbauarbeiten bis zur Schlüsselfertigen Übergabe.'
     toggle: true
     button_size: lg
+  -
+    id: m0jix8kg
+    version: stats_section_6
+    title: 'Team Drewnowski'
+    description: 'Unser Team in Zahlen.'
+    stats:
+      -
+        id: m0jiyzr4
+        number: 350+
+        description: 'Erfolgreich abgeschlossene Projekte'
+        has_icon: true
+        icon: icons/customer.png
+        type: new_set
+        enabled: true
+      -
+        id: m0jj1tqc
+        number: 25+
+        description: 'Jahre Expertise in der Bauindustrie'
+        has_icon: true
+        icon: icons/project-timeline.png
+        type: new_set
+        enabled: true
+      -
+        id: m0jj2d8c
+        number: '21'
+        description: 'Qualifizierte Mitarbeiter'
+        has_icon: true
+        icon: icons/construction-worker.png
+        type: new_set
+        enabled: true
+      -
+        id: m0jjb8gi
+        number: 8+
+        description: Fachexperten
+        has_icon: true
+        icon: icons/construction-method.png
+        type: new_set
+        enabled: true
+    type: stats
+    enabled: true
   -
     id: m0jexi52
     version: feature_multiple_5
