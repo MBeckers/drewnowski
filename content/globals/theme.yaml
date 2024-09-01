@@ -2,7 +2,7 @@ title: Theme
 data:
   logo_normal: logo-drewnowski.svg
   logo_dark: logo-drewnowski_inverted.svg
-  logo_mark: logo.svg
+  logo_mark: logo-icon_inverted.svg
   logo_position: left
   menu_position: left
   show_links: true
@@ -71,8 +71,10 @@ data:
           title: Instagram
           url: www.youtube.com
           icon: social/Instagram-1641400598.svg
-  logo_overlay: false
-  display_divider: false
+  logo_overlay: true
+  logo_overlay_position: right
+  display_divider: true
+  divider_style: full
   footer_items:
     -
       id: fFwSDEXx
