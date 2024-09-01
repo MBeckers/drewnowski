@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725189924
+updated_at: 1725190448
 blocks:
   -
     id: XAoM0FUc
@@ -108,6 +108,17 @@ blocks:
         type: card
         enabled: true
     type: feature_multiple
+    enabled: true
+  -
+    id: m0jhrg6f
+    version: project_single_1
+    title: 'Handwerker aus Leidenschaft'
+    description: 'Eine kurze Einführung in die Geschichte, Mission und Werte des Unternehmens'
+    image: stock/team.webp
+    has_link: true
+    label: 'Mehr über uns'
+    target_blank: false
+    type: project_single
     enabled: true
   -
     id: LpOWqgQF
