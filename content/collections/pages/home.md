@@ -10,24 +10,49 @@ seotamic_open_graph_title: title
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
-updated_by: 369c0269-580d-4c49-af9f-0450df6fea35
-updated_at: 1679332371
+updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
+updated_at: 1725186171
 blocks:
   -
     id: XAoM0FUc
-    version: hero_section_3
-    title: 'Transform the way you work.'
+    version: hero_section_5
+    title: 'Wir bauen Ihre Vision mit Präzision und Sorgfalt'
     has_description: true
     hero_image: images/Phone-Mockup.png
-    label: 'Buy now'
+    label: 'Jetzt kontaktieren'
     link: 'https://www.luckymedia.dev'
     target_blank: true
     type: hero
     enabled: true
     button_variant: brand
-    description: 'We have configured Statamic with beautiful components so you can build your website instantly.'
+    description: 'Team-Drewnowski: Experten für Bauleistungen von Rohbauarbeiten bis zur Schlüsselfertigen Übergabe.'
     toggle: true
     button_size: lg
+  -
+    id: m0jexi52
+    version: feature_multiple_5
+    title: 'Unsere Dienstleistungen'
+    description: 'Umfassende Lösungen für jedes Bauvorhaben'
+    features:
+      -
+        id: m0jf0qn7
+        image: icons/baustellen-strasse.png
+        title: Betonarbeiten
+        description: 'Hochwertige Betonfundamente, Gehwege, Einfahrten und dekorative Betonlösungen für Ihr Projekt.'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jf6f7b
+        image: icons/baustein-wand-abrisskugel.png
+        title: Abrissarbeiten
+        description: 'Sichere und effiziente Abrissarbeiten sowohl in Wohnungen, Häusern und Gewerbeimmobilien.'
+        has_link: true
+        target_blank: false
+        type: card
+        enabled: true
+    type: feature_multiple
+    enabled: true
   -
     id: LpOWqgQF
     version: logo_cloud_1
