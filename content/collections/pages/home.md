@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725194969
+updated_at: 1725197715
 blocks:
   -
     id: XAoM0FUc
@@ -25,7 +25,7 @@ blocks:
     type: hero
     enabled: true
     button_variant: brand
-    description: 'Team-Drewnowski: Experten für Bauleistungen von Rohbauarbeiten bis zur Schlüsselfertigen Übergabe.'
+    description: 'Experten für Bauleistungen von Rohbauarbeiten bis zur Schlüsselfertigen Übergabe.'
     toggle: true
     button_size: lg
   -
