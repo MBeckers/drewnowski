@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725191711
+updated_at: 1725192103
 blocks:
   -
     id: XAoM0FUc
@@ -108,6 +108,18 @@ blocks:
         type: card
         enabled: true
     type: feature_multiple
+    enabled: true
+  -
+    id: m0jiotwj
+    version: cta_section_1
+    title: 'Ein Projekt im Kopf? Lassen sie uns sprechen!'
+    image: stock/contact.webp
+    toggle: true
+    label: 'Unverbindlich Anfragen'
+    button_variant: secondary
+    button_size: md
+    target_blank: false
+    type: cta_section
     enabled: true
   -
     id: m0jhrg6f
