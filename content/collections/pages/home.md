@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725186171
+updated_at: 1725189924
 blocks:
   -
     id: XAoM0FUc
@@ -35,10 +35,10 @@ blocks:
     description: 'Umfassende Lösungen für jedes Bauvorhaben'
     features:
       -
-        id: m0jf0qn7
-        image: icons/baustellen-strasse.png
-        title: Betonarbeiten
-        description: 'Hochwertige Betonfundamente, Gehwege, Einfahrten und dekorative Betonlösungen für Ihr Projekt.'
+        id: m0jgwp3y
+        image: icons/shower-head.png
+        title: Sanitärinstallationen
+        description: 'Vom Fliesenlegen bis zum anbringen Ihrer Objekte kümmern wir uns um Ihr ganzes Badezimmer.'
         has_link: false
         type: card
         enabled: true
@@ -49,6 +49,62 @@ blocks:
         description: 'Sichere und effiziente Abrissarbeiten sowohl in Wohnungen, Häusern und Gewerbeimmobilien.'
         has_link: true
         target_blank: false
+        type: card
+        enabled: true
+      -
+        id: m0jf0qn7
+        image: icons/bauhandel-schubkarre.png
+        title: Betonarbeiten
+        description: 'Hochwertige Betonfundamente, Gehwege, Einfahrten und dekorative Betonlösungen für Ihr Projekt.'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jg9iia
+        image: icons/road.png
+        title: Bodenbeläge
+        description: 'Fachmännische Installation von Parkett, Fliesen, Teppichböden und anderen Bodenbelägen für jeden Raum.'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jgqlhv
+        image: icons/malroller-werkzeug-an-wand.png
+        title: 'Malerarbeiten und Veredelung'
+        description: 'Innen- und Außenanstriche, die Ihr Zuhause oder Ihr Unternehmen in neuem Glanz erstrahlen lassen.'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jgvs2a
+        image: icons/bauhandwerk-sage.png
+        title: 'Trockenbau und Isolierung'
+        description: 'Effiziente Trockenbau-Installationen und Isolierungen zur Verbesserung der Energieeffizienz und Schalldämmung.'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jgyocv
+        image: icons/bausteine-icon-pack.png
+        title: Maurerarbeiten
+        description: 'Traditionelle und moderne Maurerarbeiten für robuste und ästhetisch ansprechende Strukturen.'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jgzbt4
+        image: icons/constructions.png
+        title: Dacharbeiten
+        description: 'Professionelle Dachinstallation und -reparatur, die Langlebigkeit und Schutz für Ihr Gebäude gewährleistet'
+        has_link: false
+        type: card
+        enabled: true
+      -
+        id: m0jhitfr
+        image: icons/toolkit.png
+        title: 'Weitere Dienstleistungen'
+        description: 'Umfassende Bau- und Renovierungsdienstleistungen, maßgeschneidert für Ihre individuellen Bedürfnisse'
+        has_link: false
         type: card
         enabled: true
     type: feature_multiple
