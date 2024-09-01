@@ -1,1 +1,7 @@
 title: 'Contact Form'
+email:
+  -
+    id: m0jmlgac
+    to: marius@beckers.de
+    cc: adams@nanosch.de
+    mailer: mailgun
