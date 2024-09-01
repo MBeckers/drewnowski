@@ -11,7 +11,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: f2130cf0-5295-49bd-b36a-1f2b8bd6a103
-updated_at: 1725198563
+updated_at: 1725199016
 blocks:
   -
     id: XAoM0FUc
@@ -20,7 +20,7 @@ blocks:
     has_description: true
     hero_image: stock/construction-hero-1-1.webp
     label: 'Jetzt kontaktieren'
-    link: 'https://www.luckymedia.dev'
+    link: 'entry::a3702dc4-85a0-45dd-b9e7-e6ffa4d45462'
     target_blank: true
     type: hero
     enabled: true
